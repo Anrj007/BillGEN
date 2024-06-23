@@ -364,7 +364,7 @@ while True:
 	if choice == 0:
 		     	   print('')
 		     	   print('*Closing program*')
-		     	   print(f'Thanks for using our software @{pname1}!')
+		     	   print(f'Thanks for using our software :) @{pname1}!')
 		     	   break
 		     	   
 	else:
